@@ -1,5 +1,5 @@
 ### Hi there 👋
-[! Omar Hazem Logo](OH logo.gif)
+[! Omar Hazem Logo]('OH logo.gif')
 <!--
 **Zomma2/Zomma2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
