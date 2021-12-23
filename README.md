@@ -2,7 +2,7 @@
 ![Omar Hazem Logo](https://blogger.googleusercontent.com/img/a/AVvXsEiwuZBmGjHoOs7QC70hmjijHlyCgyo39Me7z7zpwbAeFJU527dbmQACn0klaiaBteX3orea2j3HjQ9164Xznf8FGZtnoSXvqAFC-fWE-8K9Xz_OMHAPBaJEjc-oPhVzB_R1K2WSzWazpspTRTDVrSl84rqzDiPlF6-GauMvhX_M1noJbd44Qj413cA=s16000)
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=Zomma2&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-23-blue" />
