@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![Omar Hazem Logo](https://blogger.googleusercontent.com/img/a/AVvXsEiwuZBmGjHoOs7QC70hmjijHlyCgyo39Me7z7zpwbAeFJU527dbmQACn0klaiaBteX3orea2j3HjQ9164Xznf8FGZtnoSXvqAFC-fWE-8K9Xz_OMHAPBaJEjc-oPhVzB_R1K2WSzWazpspTRTDVrSl84rqzDiPlF6-GauMvhX_M1noJbd44Qj413cA=s16000)
 
+ <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiwuZBmGjHoOs7QC70hmjijHlyCgyo39Me7z7zpwbAeFJU527dbmQACn0klaiaBteX3orea2j3HjQ9164Xznf8FGZtnoSXvqAFC-fWE-8K9Xz_OMHAPBaJEjc-oPhVzB_R1K2WSzWazpspTRTDVrSl84rqzDiPlF6-GauMvhX_M1noJbd44Qj413cA=s16000" class="center"/>
 
  <p align="center">
 <img src="https://img.shields.io/badge/Age-23-blue" />
@@ -12,8 +13,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
 <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
 <p align="center">
-<a href="http://www.meetomarhazem.me" target="blank"><img align="center" src="https://www.pinclipart.com/picdir/middle/257-2576819_website-icons-download-for-free-in-png-and.png" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ovinduwijethunge/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="http://www.meetomarhazem.me" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Globe_icon_4.svg" alt="Webbsite" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ovinduwijethunge/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin" height="30" width="40" /></a>  
  <a href = "mailto: omarhazem6@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
