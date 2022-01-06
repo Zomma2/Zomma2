@@ -45,7 +45,7 @@
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently working as a freelancer  for **Freelancer.com**<br>
-✔ I’m currently learning about **Cloud & Devops ** 🥰<br>
+✔ I’m currently learning about **Cloud & Devops** 🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
