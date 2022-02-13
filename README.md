@@ -17,7 +17,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Omar Hazem </h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
+<h3 align="center">Machine Learning OPs | Data Scientist </h3>
 <p align="center">
 <a href="http://www.meetomarhazem.me" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/chrome+google+chrome+icon-1320168278366695010.png" alt="Webbsite" height="40" width="40" /></a>
 <a href="www.linkedin.com/in/omar-hazem-57317413a" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin" height="40" width="40" /></a>  
